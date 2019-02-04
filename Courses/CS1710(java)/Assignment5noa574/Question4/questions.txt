@@ -1,0 +1,142 @@
+THE WORLD>>20
+How many countries are there in the world?>>196
+Which country has the largest area?>>Russia
+How many countries are landlocked, have no sea coast?>>48
+Which country is the most populated in the world?>>China
+Does the world have more land or water?>>Water
+Which is the highest mountain in the world?>>Mount Everest
+Which is the highest waterfall in the world?>>Angel Falls
+Which is the largest lake?>>Lake Superior
+Which is the largest desert?>>Sahara
+Which is the longest river?>>Nile
+Where is the largest fresh water island in the world?>>Canada
+Which country is the leading producer of wool?>>Australia
+Which is the top coal mining country?>>Kazakhstan
+Which country exports the most goods?>>China
+Which country imports the most goods?>>USA
+Which country has the longest coastline in the world?>>Canada
+Which country has the largest number of lakes?>>Canada
+Which country has the northern most permanently inhabited place in the world?>>Canada
+Which country sends 20,000 tulip bulbs every year to Canada to thank them for their aid in the Second World War?>>Netherlands
+Which country has the smallest area?>>Vatican City
+CANADA>>25
+How many provinces does Canada have?>>10
+How many territories are there in Canada?>>3
+What is the capital of Canada?>>Ottawa
+Which animal is the national animal of Canada?>>Beaver
+Which basket sport was invented by a Canadian?>>Basketball
+How many points does the maple leaf on the Canadian flag have?>>11
+In which year did the Dominion of Canada come into being?>>1867
+Which territory of Canada is the northern most permanently inhabited place in the world?>>Nunavut
+What is the national summer sport of Canada?>>Lacrosse
+Which is Canada's largest province or territory by area?>>Nunavut
+What is the size (in sq. km.) of Canada?>>9,984,670
+Which is the largest island in Canada?>>Baffin Island
+Which is the largest freshwater island in Canada?>>Manitoulin Island
+Which is Canada's highest mountain?>>Mount Logan
+How many time zones does Canada have?>>6
+Which is the highest waterfall in Canada?>>Della Falls
+Which province in Canada has the fewest snow days?>>British Columbia
+How many Nobel Prize laureates have been there in Canada?>>10
+What is the national winter sport of Canada?>>Hockey
+How many times has Canada hosted the Olympic Games?>>3
+What does the Canadian coat of arms motto - A Mari Usque Ad Mare - mean?>>From Sea To Sea
+In what year did the first explorer, John Cabot, reach Canada?>>1497
+Which is the walled city in Canada?>>Quebec City
+How many world heritage sites are in Canada?>>15
+Which is the smallest province of Canada by area?>>Prince Edward Island
+NOVA SCOTIA>>20
+What does Nova Scotia mean in Latin?>>New Scotland
+Which city is the capital of Nova Scotia?>>Halifax
+What is the name of the provincial flower?>>Mayflower
+What is the name of the provincial tree?>>Red Spruce
+What is the name of the provincial bird?>>Osprey
+Who are the first people of Nova Scotia?>>Mi'kmaq
+Which year did the Vikings first visit Nova Scotia?>>990
+In which year was Nova Scotia partitioned and the colonies of New Brunswick and Cape Breton Island created?>>1784
+In which year did Cape Breton Island became part of Nova Scotia again?>>1820
+In which year did Nova Scotia become a part of the Dominion of Canada?>>1867
+Which ocean is to the south and east of Nova Scotia?>>Atlantic
+The Bay of Fundy stretches between Nova Scotia and which other province?>>New Brunswick
+Much of the province is part of which region?>>Appalachian Region
+What separates the mainland of Nova Scotia from Cape Breton Island?>>Strait of Canso
+What is the oldest and most important natural resource of Nova Scotia?>>Fisheries
+What is the name of a well-known fishing village with a lighthouse?>>Peggy's Cove
+When was the Citadel, a fort, built on a hill overlooking Halifax harbour?>>1856
+What is the name of the National Historic Site on Cape Breton Island which houses a museum displaying the inventions of telephone?>>Alexander Graham Bell
+Which, within Cape Breton Island, is the largest reconstructed 18th-century French fortified town in North America?>>Fortress of Louisbourg
+Which saltwater lake on Cape Breton Island is a nesting site of the endangered bald eagle?>>Bras d'Or Lake
+NEW BRUNSWICK>>20
+What is the capital of the province of New Brunswick?>>Fredricton
+What is the largest city of the province?>>St. John
+Where do the highest tides in the world occur in New Brunswick?>>Bay of Fundy
+What is the name of the provincial plant?>>Purple Violet
+What is the name of the provincial bird?>>Black Capped Chickadee
+What is the name of the provincial tree?>>Balsam Fir
+In which year did the province join Confederation?>>1867
+What is the longest river in the province?>>Saint John
+What is the main crop of the province?>>Potato
+What is the most valuable catch in the province?>>Lobster
+Who was the first Acadian to become a Governor-General of Canada?>>Romeo Leblanc
+What is the name of the world's longest covered bridge located in this province?>>Hartland Bridge
+What is the name of the world's longest bridge, crossing ice-covered water that is located in this province?>>Confederation Bridge
+What is the name of the optical illusion in Monton?>>Magnetic Hill
+What is the name of the waterfall on St. John River where the water rushes uphill against the normal flow of the falls?>>Reversing Falls
+What is the name of the largest waterfall in New Brunswick?>>Grand Falls Gorge
+In which city of New Brunswick is the oldest Canadian museum found?>>Saint John
+The National Historic Site of St. Andrew's Blockhouse was built during the War of which year?>>1812
+What is the name of the whirlpool off of Deer Island that is the largest tidal whirlpool in the western hemisphere?>>Old Sow Whirlpool
+What is the name of the second oldest lighthouse in New Brunswick that is located on Campobello Island?>>Head Harbour
+PRINCE EDWARD ISLAND>>20
+In which year did PEI joined Confederation?>>1873
+Which is the largest city of PEI?>>Charlottetown
+The provincial anthem of PEI, 'The Island Hymn', was written by whom?>>Lucy Maud Montgomery
+What is the name of the provincial plant?>>Lady's Slipper
+What is the name of the provincial bird?>>Blue Jay
+What is the name of the provincial tree?>>Red Oak
+Who discovered the island of PEI?>>Jacques Cartier
+In which year was PEI first discoverd?>>1534
+What is the largest industry on the island?>>Agriculture
+What is the second largest industry on the island?>>Tourism
+What is the name of the bridge that joins New Brunswick and PEI?>>Confederation Bridge
+What is a famous attraction on the island?>>Green Gables House
+Originally PEI was known as St. John's Island, it was renamed Prince Edward Island in which year?>>1799
+What is the name of the Duke of Kent from whom Prince Edward Island gets its name?>>Prince Edward Augustus
+Where is the highest point (152 metres above sea level) in PEI?>>Springton
+PEI's famous red soil gets its color from the high content of which element?>>Iron
+Province House, home of Prince Edward Island's Legislative Assembly, opened in which year?>>1847
+In which year was the Charlottetown Conference, one of the most significant political events in Canadian history, held to discuss the possibility of Canadian union?>>1864
+Which time zone does PEI follow?>>Atlantic
+How many counties are there in the province of PEI?>>3
+What is the name of one of Canada's most famous authors born in PEI?>>Lucy Maud Montgomery
+NEWFOUNDLAND AND LABRADOR>>30
+What are the two parts of this province?>>Newfoundland and Labrador
+Which province borders Labrador?>>Quebec
+Who were the first European arrivals on the shore of NL?>>Vikings
+When did the first group of European people land on the shores of northern NL?>>1000 AD
+Which is the oldest city in North America?>>St. John's
+What is the capital of NL?>>St. John's
+What percent of the world's critically endangered Boreal Felt Lichen is in Newfoundland?>>99%
+The island has its own time zone, by how many minutes is the island ahead of Atlantic Standard Time?>>30
+What is the most eastern point in North America?>>Cape Spear
+What year did Newfoundland join Confederation?>>1949
+Which are the two water bodies that surround Newfoundland?>>Gulf of St. Lawrence and Atlantic Ocean
+Which is the only known site of an ancient Norse settlement in North America (outside of Greenland) on the northern-most tip of the island?>>L'Anse aux Meadows
+Which year was the amendment to the constitution done to change the name of the province of Newfoundland to Newfoundland and Labrador?>>2001
+What is the name of the provincial plant?>>Pitcher Plant
+What is the name of the provincial bird?>>Puffin
+What is the name of the provincial tree?>>Black Spruce
+What is the name of the largest lake in Newfoundland and Labrador?>>Smallwood Reservoir
+When did John Cabot come to Newfoundland?>>1497
+What is an important industry of Newfoundland?>>Fisheries
+What covers one third of Newfoundland?>>Forests
+What is the shallow part of the Continental Shelf (less than 50 metres deep) that lies off the coast of Newfoundland?>>Grand Banks
+What is produced in Labrador?>>Iron Ore
+What is the name of the second largest underground hydroelectric power plant in the world that is in Labrador?>>Churchill Falls
+How many national parks does NL have?>>3
+Where did the Italian inventor Marconi receive the first wireless signal from across the Atlantic Ocean?>>Signal Hill
+In what year did the Italian inventor Marconi receive the first wireless signal across the Atlantic?>>1901
+Which large passenger ship sank in 1912 after hitting an iceberg south of Newfoundland?>>Titanic
+When was a transatlantic telegraph cable laid on the bottom of the ocean from Ireland to Heart's Content, Newfoundland?>>1866
+Who was the first premier of the province?>>Joey Smallwood
+Where does the majority of the population of the province reside (Newfoundland or Labrador)?>>Newfoundland
