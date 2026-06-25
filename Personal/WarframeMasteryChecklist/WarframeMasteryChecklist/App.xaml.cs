@@ -1,4 +1,5 @@
-﻿using System.Configuration;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Configuration;
 using System.Data;
 using System.Windows;
 
@@ -9,6 +10,6 @@ namespace WarframeMasteryChecklist
     /// </summary>
     public partial class App : Application
     {
-    }
+    }   
 
 }

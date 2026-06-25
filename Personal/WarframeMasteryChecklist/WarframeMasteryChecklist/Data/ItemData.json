@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Braton Prime",
+    "itemCategory": "PrimaryWeapon",
+    "itemType": "Rifle",
+    "itemTag": [ "Prime" ]
+  },
+  {
+    "name": "Lex Prime",
+    "itemCategory": "SecondaryWeapon",
+    "itemType": "Pistol",
+    "itemTag": [ "Prime", "Founder" ]
+  },
+  {
+    "name": "Skana Prime",
+    "itemCategory": "MeleeWeapon",
+    "itemType": "Sword",
+    "itemTag": [ "Prime", "Founder" ]
+  },
+  {
+    "name": "Excalibur Prime",
+    "itemCategory": "Warframe",
+    "itemType": "Waframe",
+    "itemTag": [ "Prime", "Founder" ]
+  },
+  {
+    "name": "Odonata",
+    "itemCategory": "Warframe",
+    "itemType": "Archwing",
+    "itemTag": []
+  }
+  {
+    "name": "Bonewiddow",
+    "itemCategory": "Waframe",
+    "itemType": "Necramech",
+    "itemTag": []
+  },
+  {
+    "name": "Voidrig",
+    "itemCategory": "Waframe",
+    "itemType": "Necramech",
+    "itemTag": []
+  },
+  {
+    "name": "Helmith Charger",
+    "itemCategory": "Companion",
+    "itemType": "Infested",
+    "itemTag": [ "Biological" ]
+  }
+]
